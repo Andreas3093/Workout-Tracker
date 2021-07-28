@@ -40,7 +40,7 @@
   ### resistance page
   ![resistance](./public/images/resistance.png)  
 
-  ## deployed
+
   
   
     
