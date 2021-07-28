@@ -2,7 +2,7 @@
   ## Fitness-Tracker
   
 
-
+  
   ## Table of contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -40,7 +40,7 @@
   ### resistance page
   ![resistance](./public/images/resistance.png)  
 
-
+  ## deployed
   
   
     
