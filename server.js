@@ -1,7 +1,6 @@
 const express = require("express");
 const morgan = require("morgan");
 const mongoose = require("mongoose");
-const path = require('path')
 
 
 const app = express();
@@ -23,8 +22,8 @@ mongoose.connect(
     }
   );
 
-app.use (require("./routes/apiRoutes.js"));
-app.use (require("./routes/htmlRoutes"));
+app.use (require("./routes"))
+
 
 app.listen(PORT, () => { 
     console.log(`App listening on Port ${PORT}`);
